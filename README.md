@@ -14,8 +14,8 @@ A solution for the same would be using a bridge between both the apps. Yes, I kn
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://telegram.dog/XTZ_HerokuBot?start=c3ViaW5wcy9URy1XaGF0c0FwcCBtYWlu "Deploy with Heroku")<br>
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/onenonlybotz/TG-WhatsApp)
+  
 ### Config Variables
 
 - `BOT_TOKEN` Bot token from [@BotFather](https://telegram.dog/BotFather)
